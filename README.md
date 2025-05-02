@@ -1,4 +1,4 @@
-Project Name: Breaking Down the Race: Optimizing Formula 1 Data Analysis and Visualization for Strategic Decisions
+**Project Name: Breaking Down the Race: Optimizing Formula 1 Data Analysis and Visualization for Strategic Decisions**
 
-Description:
+**Description:**
 This project focuses on utilizing data analysis and visualization techniques to enhance strategic decision-making in Formula 1 racing. It includes tools and methodologies for analyzing key race metrics such as lap times, pit stop strategies, tire performance, and weather conditions. By leveraging data-driven insights, the project aims to optimize performance and improve strategic planning during races. Interactive visualizations are provided to make complex data more accessible, empowering teams, analysts, and fans to make better-informed decisions in real-time. Ideal for data enthusiasts and professionals looking to explore the intersection of data science and motorsports.
