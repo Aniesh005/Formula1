@@ -1,6 +1,6 @@
-# 🏁 Aniesh's Portfolio
+# 🏁 **"Breaking Down the Race: Optimizing Formula 1 Data Analysis and Visualization for Strategic Decisions"**  
 
-Welcome to my personal portfolio repository! This space showcases my skills, projects, and interests as a data science enthusiast with a strong focus on Formula 1 analytics and real-world data-driven problem solving.
+Welcome to my Formula1 Data analysis repository! This space showcases my skills, projects, and interests as a data science enthusiast with a strong focus on Formula 1 analytics and real-world data-driven problem solving.
 
 ---
 
